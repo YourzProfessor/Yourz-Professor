@@ -1,5 +1,5 @@
 <!-- ============ HEADER BANNER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20YOUR%20NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20ARGHYA%20HALDER&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner" />
 
 <!-- ============ TYPING ANIMATION ============ -->
 <div align="center">
