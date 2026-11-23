@@ -40,7 +40,6 @@
 
 </div>
 
-> Swap icons by editing the `i=` list. Full catalog: [skillicons.dev](https://skillicons.dev)
 
 ---
 
